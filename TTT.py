@@ -66,3 +66,5 @@ if isWin():
     print('Player ' + ('1' if p1_turn else '2') + ' won!')
 else:
     print('Draw!')
+
+input('Press ENTER to exit')
